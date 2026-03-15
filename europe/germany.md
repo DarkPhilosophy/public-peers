@@ -28,6 +28,10 @@ Yggdrasil configuration file to peer with these nodes.
 * Nuremberg, operated by [deb](https://ysl.su)
   * `tcp://yggdrasil.su:62486`
   * `tls://yggdrasil.su:62586`
+ 
+* Frankfurt, DE, axxa.dev, operated by [Adalbert Alexandru](https://axxa.dev)
+  * `tls://ygg-oracle.axxa.dev:18080`
+  * `quic://ygg-oracle.axxa.dev:18083`
 
 * Frankfurt, public nodes, operated by [sergeysedoy97](https://t.me/sergeysedoy97)
   * `tcp://94.159.110.4:65535`
